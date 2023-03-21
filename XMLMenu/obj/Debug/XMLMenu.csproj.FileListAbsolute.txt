@@ -1,0 +1,10 @@
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\bin\Debug\XMLMenu.exe.config
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\bin\Debug\XMLMenu.exe
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\bin\Debug\XMLMenu.pdb
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.csproj.AssemblyReference.cache
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.Form1.resources
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.Properties.Resources.resources
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.csproj.GenerateResource.cache
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.csproj.CoreCompileInputs.cache
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.exe
+D:\File\XML 2022-2023\XML\XMLMenu\XMLMenu\obj\Debug\XMLMenu.pdb
